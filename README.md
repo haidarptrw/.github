@@ -2,9 +2,9 @@
 
 ## About Me
 
-Music and Visual Art enthusiast. Mainly programming stuff, but also music producing as a hobby.
-I have experiences in Data Science, Game Development (Unity), and Software Engineering (Full-stack Web Developer).
-Still learning lot of things.
+Music and Visual Art enthusiast. Mainly programming stuff, but also doing music producing as a hobby.
+I also do things in Data Science, Game Development, and Software Web Development.
+I am Still learning lot of things, hoping to be as versatile as ever.
 
 ### Social:
 
