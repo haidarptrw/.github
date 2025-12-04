@@ -3,8 +3,8 @@
 ## About Me
 
 Music and Visual Art enthusiast. Mainly programming stuff, but also doing music producing as a hobby.
-I also do things in Data Science, Game Development, and Software Web Development.
-I am Still learning lot of things, hoping to be as versatile as ever.
+I also do things in Data Science, Game Development, Audio Programming and Software Web Development.
+I am Still learning lot of things, hoping to be as versatile as ever. Currently working on my most ambitious open-source project ever
 
 ### Social:
 
