@@ -19,7 +19,7 @@ I am Still learning lot of things, hoping to be as versatile as ever. Currently 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![PyTorch](https://img.shields.io/badge/Pytorch-white?style=plastic&logo=pytorch&logoColor=ee4c2c)
-![Rust](https://img.shields.io/badge/Rust-%23ce412b.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23ce412b.svg?style=plastic&logo=rust&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-white.svg?style=plastic&logo=tensorflow&logoColor=%23FF6F00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
