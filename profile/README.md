@@ -31,4 +31,4 @@ I am Still learning lot of things, hoping to be as versatile as ever. Currently 
 - Game Development (Unity Programmer, Audio Engineer, Audio Artist)
 - Full-stack Web Development (Primarily Backend)
 - Mobile Development (Flutter & React Native)
-
+- Music Composing (primarily FL Studio)
