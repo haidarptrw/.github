@@ -6,9 +6,6 @@ Music and Visual Art enthusiast. Mainly programming stuff, but also doing music 
 I also do things in Data Science, Game Development, Audio Programming and Software Web Development.
 I am Still learning lot of things, hoping to be as versatile as ever. Currently working on an audio programming project
 
-### Social:
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazhif-haidar-putra-wibowo/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nazhifhaidar/)
 ----------------------------------------------------------
 ## Experience and Skills
 
