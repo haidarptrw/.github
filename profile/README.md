@@ -6,7 +6,6 @@ Music and Visual Art enthusiast. Mainly programming stuff, but also doing music 
 I also do things in Data Science, Game Development, Audio Programming and Software Web Development.
 I am Still learning lot of things, hoping to be as versatile as ever. Currently working on an audio programming project
 
-----------------------------------------------------------
 ## Experience and Skills
 
 ### Tech Stack:
